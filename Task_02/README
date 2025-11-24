@@ -1,0 +1,37 @@
+---
+
+# 📘 Task 4 — General Health Query Chatbot (LLM-Based)
+
+## 🎯 Objective
+Build a simple conversational chatbot that can answer general health-related questions using a Large Language Model (LLM).
+
+---
+
+## 🛠 Tools Used
+- OpenAI GPT-3.5 Turbo (API)
+- Python
+- Prompt Engineering
+- Safety Filtering Techniques
+
+---
+
+## 🧪 Features
+- Friendly health assistant personality
+- General explanations for symptoms & conditions
+- Clear disclaimers and safety responses
+- Filters for dangerous or harmful queries
+- Detects medical emergencies and avoids giving advice
+
+---
+
+## 🧵 Example Queries
+- *“What causes a sore throat?”*
+- *“Is paracetamol safe for children?”*
+- *“I feel headache every day, what could be the reason?”*
+
+---
+
+## 📎 Files Included
+- `Task_04_Health_Chatbot.ipynb`
+
+---
